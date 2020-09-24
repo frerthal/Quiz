@@ -1,0 +1,13 @@
+C:\Users\nanda\source\repos\Quiz Arte\bin\Debug\netcoreapp3.1\Quiz Arte.exe
+C:\Users\nanda\source\repos\Quiz Arte\bin\Debug\netcoreapp3.1\Quiz Arte.deps.json
+C:\Users\nanda\source\repos\Quiz Arte\bin\Debug\netcoreapp3.1\Quiz Arte.runtimeconfig.json
+C:\Users\nanda\source\repos\Quiz Arte\bin\Debug\netcoreapp3.1\Quiz Arte.runtimeconfig.dev.json
+C:\Users\nanda\source\repos\Quiz Arte\bin\Debug\netcoreapp3.1\Quiz Arte.dll
+C:\Users\nanda\source\repos\Quiz Arte\bin\Debug\netcoreapp3.1\Quiz Arte.pdb
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.AssemblyInfoInputs.cache
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.AssemblyInfo.cs
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.csproj.CoreCompileInputs.cache
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.dll
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.pdb
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.genruntimeconfig.cache
+C:\Users\nanda\source\repos\Quiz Arte\obj\Debug\netcoreapp3.1\Quiz Arte.csprojAssemblyReference.cache
